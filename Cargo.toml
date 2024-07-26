@@ -1,0 +1,15 @@
+[package]
+name = "event-sender"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jan Wagner <janwagner232@gmail.com>"]
+
+description="A c# like event-system"
+
+license = "MIT OR Apache-2.0"
+
+[lib]
+name="event-sender"
+path="src/lib.rs"
+crate-type = ["dylib"]
+
