@@ -9,7 +9,7 @@ description="A c# like event-system"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name="event-sender"
+name="eventsender"
 path="src/lib.rs"
 crate-type = ["dylib"]
 
