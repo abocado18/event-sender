@@ -1,6 +1,6 @@
 [package]
 name = "event-sender"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Jan Wagner <janwagner232@gmail.com>"]
 
